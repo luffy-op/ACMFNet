@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pedestrian Attribute Recognition
 
 ## Introduction
@@ -23,3 +24,6 @@
     ```shell
     python train.py
     ```
+=======
+# ITMFNet
+>>>>>>> 085aaf120f6a08677123c0e8f39f5e7efff5f1ad
