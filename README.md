@@ -22,7 +22,7 @@
 - Training on PA100K:
 
     ```shell
-    python train.py
+    python train_pa100k.py
     ```
 =======
 # ITMFNet
