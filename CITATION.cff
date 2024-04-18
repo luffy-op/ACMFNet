@@ -4,8 +4,8 @@ authors:
 - family-names: "Zhang"
   given-names: "Long"
   orcid: "https://orcid.org/0009-0002-5963-1950"
-title: "UCMFNet"
+title: "ACMFNet"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-04-14
-url: "https://github.com/luffy-op/ITMFNet"
+url: "https://github.com/luffy-op/ACMFNet"
